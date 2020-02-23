@@ -11,4 +11,4 @@ Classification of ECG signals by dot Residual LSTM Network for anomaly detection
 ### Model Architecture
 
 <hr>
-<img src="dotreslstm_plot.png" width="500px" style="align:center" />
+<img src="dotreslstm_plot.png" width="500px" style="text-align:center" />
