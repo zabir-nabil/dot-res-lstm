@@ -3,12 +3,12 @@ Classification of ECG signals by dot Residual LSTM Network for anomaly detection
 
 ### Contents
 
--[x] dot-res-lstm for ECG
--[x] VAE data generation
--[x] Weights 
--[ ] GAN
+- [x] dot-res-lstm for ECG
+- [x] VAE data generation
+- [x] Weights 
+- [ ] GAN
 
 ### Model Architecture
 
 <hr>
-<img src="dotreslstm_plot.png" style="align:center" />
+<img src="dotreslstm_plot.png" width="500px" style="align:center" />
