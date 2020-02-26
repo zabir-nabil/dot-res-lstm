@@ -17,7 +17,7 @@ Classification of ECG signals by dot Residual LSTM Network for anomaly detection
 
 You can download the dataset from [dataset](https://data.mendeley.com/datasets/7dybx7wyfn/3)
 
-Or, you can use the converted numpy files we generated for training and testing from this repository for benchmarking against our results.
+Or, you can use the converted numpy files **(.npy)** we generated for training and testing from this repository for benchmarking against our results.
 
 
 ### Publication
