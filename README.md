@@ -19,6 +19,8 @@ Available @ [paper link](https://www.researchgate.net/publication/337159046_Clas
 
 
 ### Citation
+If you use the code or the repository in your research, kindly cite our work as following - 
+
 
 **bibtex**
 
