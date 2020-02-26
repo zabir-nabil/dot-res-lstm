@@ -13,6 +13,13 @@ Classification of ECG signals by dot Residual LSTM Network for anomaly detection
 <hr>
 <img src="dotreslstm_plot.png" align="middle" />
 
+### Data
+
+You can download the dataset from [dataset](https://data.mendeley.com/datasets/7dybx7wyfn/3)
+
+Or, you can use the converted numpy files we generated for training and testing from this repository for benchmarking against our results.
+
+
 ### Publication
 
 Available @ [paper link](https://www.researchgate.net/publication/337159046_Classification_of_ECG_signals_by_dot_Residual_LSTM_Network_with_data_augmentation_for_anomaly_detection)
